@@ -17,8 +17,10 @@ You can get API KEY by registering at https://www.weatherapi.com/my/. WindyCLI w
 
 https://www.weatherapi.com/my/ adresine kayıt olarak APİ KEY alabilirsiniz. WindyCLI sizden api keyi soracaktır.
 
-# INSTALL
+# INSTALL & USE
 
 `git clone https://github.com/berkayagl/windycli.git`
+
+`cd windycli`
 
 `go run windycli.go`
