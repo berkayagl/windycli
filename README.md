@@ -21,6 +21,6 @@ https://www.weatherapi.com/my/ adresine kayıt olarak APİ KEY alabilirsiniz. Wi
 
 `git clone https://github.com/berkayagl/windycli.git`
 
-`cd windycli`
+`cd windycli/`
 
 `go run windycli.go`
